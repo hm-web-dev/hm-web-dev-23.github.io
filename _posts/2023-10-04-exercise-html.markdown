@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Exercise: HTML"
-date:   2023-10-04 09:51:55 -0400
+date:   2023-10-02
 ---
 The [w3schools HTML Tutorial](https://www.w3schools.com/html/) is a great resource to start learning HTML. It's also a great place to look for
 HTML documentation!
