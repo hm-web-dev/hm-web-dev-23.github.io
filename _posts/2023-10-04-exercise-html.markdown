@@ -42,5 +42,5 @@ Each member of your team should create their own page. This page should include:
 
 ## Submission
 
-On Google Classroom, submit a link to your repo along with a drawing of the DOM tree for your `index.html`. Your repo should
-include a `README.md` that explains what your website is about.
+On Google Classroom, submit a link to your repo along with a drawing of the DOM tree for your `index.html` file. Your repo should
+include a `README.md` that explains what your website is about. You can put your DOM tree there, if you would like.
