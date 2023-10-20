@@ -3,7 +3,7 @@ layout: post
 title:  "Exercise: Javascript"
 ---
 
-# Javascript
+## Javascript
 
 We'll start off by using Javascript in its original domain: websites. For now, we are talking about **client-side Javascript**, in that the code is run on the user's computer rather than the host computer (of the website).
 Read the [Mozilla documentation](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) to start off; it provides an in-depth overview of Javascript syntax, as well
@@ -11,13 +11,13 @@ as examples of how it can be used in tandem with HTML and CSS.
 
 For this exercise, I will be grading you each individually. Of course, you may work together for solidarity; if you do share code with others, please cite it in the comments!
 
-## Questions
+### Questions
 
 1. [Variables](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash#adding_variables_to_store_our_data): What is the difference between `let` and `const`? Why would you use one over the other?
 2. Describe what `document.querySelector()` does. What does *document* refer to?
 3. What is an `event` and `event handler`? Give an [example](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events) of each.
 
-## Practice
+### Practice
 
 For these practice scenarios, create a new HTML page for yourself either in your HTML team page github repo, or a separate one. Call it `<your-name>-js-exercise.html` You should [comment in](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript#comments) your javascript which exercise number your code is referring to.
 
