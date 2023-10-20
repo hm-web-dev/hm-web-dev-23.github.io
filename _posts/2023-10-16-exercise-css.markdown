@@ -21,7 +21,7 @@ You can use [mdn](https://developer.mozilla.org/en-US/docs/Web/CSS) as a referen
 ## Exercise
 
 1. To learn about different CSS Selectors, play [CSS diner](https://flukeout.github.io/)! Get to at least level 14; take a screenshot of your mastery.
-2. Write out css on your team's html site. I recommend making a `styles/` directory so that each of your team members can have a separate stylesheet. Then create css files in this directory, like `<team_member_name>.css` for:
+2. Write out css on your team's html site. I recommend using [external stylesheets](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured) and making a `styles/` directory so that each of your team members can have a separate stylesheet. Then create css files in this directory, like `<team_member_name>.css` for:
     - a. The first child of `ol` and `ul` have a different color on your individual page
     - b. Paragraph elements have no padding, but vertical margins of `1.5vh`
     - c. Add one specific *class* to two separate HTML elements and have them share a property of your choice (must be a different property than the above ones: i.e. color, padding, or margins).
