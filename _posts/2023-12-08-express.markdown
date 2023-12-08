@@ -15,13 +15,13 @@ This problem set allows you to practice:
 
 ## Exercise
 
-Write an API with the following `GET` endpoints. Each endpoint takes at least one JSON **parameter**: an array of numbers with the key "array".
+Write an API with the following `GET` endpoints. Each endpoint takes at least one JSON **parameter**: an array of numbers with the key `array`, and then a value that is an array of numbers. For example, `{"array": [1,2,3]}`. 
 
 1. `/add` returns the sum of the array
 2. `/product` returns the product of the array
 3. `/evens` returns an array of all even numbers of the original array
 4. `/min` and `/max` should return the min/max number of the array, respectively
-5. `/sort` should take an additional boolean parameter `ascending` , and return the correctly sorted array of numbers
+5. `/sort` should take an additional boolean parameter `ascending` in the request JSON, and return the correctly sorted array of numbers
 6. `/target` should take an additional number parameter `target` , and return whether there are two numbers in the array that sum to target
 
 Your code should use higher order functions where appropriate. For example, `reduce` will be very useful!
