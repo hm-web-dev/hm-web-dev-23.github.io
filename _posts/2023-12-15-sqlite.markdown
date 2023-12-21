@@ -16,7 +16,8 @@ You can execute SQL commands once you install this to your node project.
 
 ## Exercise
 
-Fork this github repository: https://github.com/hm-software-eng/intro-to-sqlite 
+Fork this github repository: [intro-to-sqlite](https://github.com/hm-software-eng/intro-to-sqlite)
+
 - And clone it to your computer. 
 - Run `npm install` to install the `sqlite3` and `express` package, since there is a pre-existing `package.json` here that specifies these dependencies.
 - Change the index.js (and db.js) file so that it supports CRUD changes for this sample database. 
