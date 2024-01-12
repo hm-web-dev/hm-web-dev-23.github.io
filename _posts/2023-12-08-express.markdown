@@ -31,5 +31,5 @@ You should be using [Postman](https://www.postman.com/downloads/postman-agent/) 
 
 Create a github repo for your API that has
 
-1. Your `index.js` file, AND your `node_modules` ignored. 
-2.  A `README.md` that describes your Postman tests (or you can link directly to postman)
+1. Your `index.js` file, AND a `README.md` that describes your Postman tests (or you can link directly to postman)
+2. Make sure you git ignore your `node_modules` folder. 
