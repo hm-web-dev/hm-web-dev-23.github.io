@@ -1,0 +1,42 @@
+---
+title: "Exercise: Vue Components" 
+--- 
+
+## Vue
+
+[Vue](https://vuejs.org/) is a front-end web framework that allows you to create powerful web UIs in a component-based, data-first way. That is, you can modularize repeatable code into components, and these components couple data manipulation methods with the HTML that user sees into single files.
+
+This problem set allows you to practice:
+
+1. Coding multiple components in vue (in a MVVM framework)
+2. Passing data from parent to child components in props
+3. Creating a component hierarchy within a Vue application
+4. Creating 'virtual' routes by using hashes (#) in the URL
+5. And (*advanced*) reacting to events emitted by the child component.
+
+## Exercise
+
+Fork [vue-example](https://github.com/hm-web-dev/vue-example-24). Build the project, look around, familiar yourself with some components, and add onto this lovely website!
+
+YOU MAY WORK IN GROUPS OF UP TO 2 PEOPLE. Write in your README.md who you worked with.
+
+1. Add more news stories to the News component! You need *4* more news articles with REAL different pictures and REAL different links.
+
+2. Create a Home Component called 'Home.vue' and add it to the '/' route. You do not have to make it like the fotmob home website. It should at least have a text and heading.
+
+    - Change the About page to point not to the 'about.html' file, but directly to the About fragment via routing (a 'virtual' path)
+    - Food for thought: What do our routes look like by this 'virtual' page splitting? Why do you think others might not use this routing strategy?
+
+3. Add the Cart vue component. It will be a parent component of a bunch of CartItem components! Also add it to App.vue's `route` variable.
+
+4. A CartItem component should have, at the very least, an image, a product name, a product description, and a price.
+    - Create *4* CartItems to list out, you can choose to display them in a list or a grid or whichever way you like.
+
+5. Set up an "Add Item To Cart" button for each Item and emit an event to the parent (or grandparent, if you need) to actually add that item to the cart. The Cart component should now hold data (possibly a dictionary) of how many products we have to the cart.
+    - Extra: Once you add one item to the cart, you should just be easily to adjust the quantity using + / - buttons, or type in a quantity input.
+
+You should be using [Vue Browser Extensions](https://devtools.vuejs.org/guide/installation.html) to debug your app on the browser. Make sure your VSCode is also set up to have Volar extensions for error checking in development.
+
+## Submission
+
+Submit your forked github repo of the example for your front-end app that has your changes and a `README.md` that answers the food for thought.
