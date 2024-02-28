@@ -8,9 +8,9 @@ title: "Exercise: Vue Components"
 
 This problem set allows you to practice:
 
-1. Coding multiple components in vue (in a MVVM framework)
-2. Passing data from parent to child components in props
-3. Creating a component hierarchy within a Vue application
+1. Coding multiple components in a Vue application
+2. Creating a component hierarchy in Vue
+3. Passing data from parent to child components in props
 4. Creating 'virtual' routes by using hashes (#) in the URL
 5. And (*advanced*) reacting to events emitted by the child component.
 
