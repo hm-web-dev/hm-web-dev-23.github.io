@@ -1,0 +1,28 @@
+# Check-in 3 Instructions
+
+Each team should submit a document that contains the following information as well as some working code on Github. Your responses should be brief (1-2 paragraphs max). You may use bullet points.
+
+Due Date: May 8th, 2024
+
+## Artifacts
+
+1. Links to your Google Drive / Github / documents
+   - should include code, diagrams, meeting notes, etc
+
+## Reflection
+
+1. This check-in should be a big milestone for you. You should have completed your MVP. Has your team accomplished this? 
+2. What are the features that you were planning to add beyond your MVP? Have they changed now that you have a better understanding of where your project is?
+
+## Plan
+
+1. How will your team address the issues that came up?
+2. What are concrete goals for your team to accomplish before the next check-in? These goals should be small, achievable, and in priority order.
+
+## Present
+
+Each project team will work with another team (Ms. Feng will assign them) and you will have time to present to each other.
+
+   1. Give a mini-demo of your MVP.
+   2. Outline what feedback you would like (on a specific front end component, some user click behavior, or back-end data modeling).
+   3. Give time for the other team to poke around and give that feedback. 
