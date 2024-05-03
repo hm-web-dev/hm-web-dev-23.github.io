@@ -25,4 +25,4 @@ Each project team will work with another team (Ms. Feng will assign them) and yo
 
    1. Give a mini-demo of your MVP.
    2. Outline what feedback you would like (on a specific front end component, some user click behavior, or back-end data modeling).
-   3. Give time for the other team to poke around and give that feedback. 
+   3. Give time for the other team to poke around and give that feedback.
