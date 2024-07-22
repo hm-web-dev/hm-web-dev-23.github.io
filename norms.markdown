@@ -12,6 +12,8 @@ permalink: /norms/
 
 - Let people learn at their own pace
 
+- [here](./_site/about/) is a link to the about page.
+
 Anyone part of our classroom may suggest a norm on our Jamboard [here](https://jamboard.google.com/d/1CzuBBFoH3hA_wJIG8dcg-Hw8Ad4hYLGX81oRTsj3Bys/viewer?f=1).
 
 ## Signatures
